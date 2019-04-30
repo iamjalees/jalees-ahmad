@@ -1,2 +1,2 @@
 # jalees-ahmad
-With the abilities to work on front end development,mostly work on html5, css3, Bootstrap, Wordpress CMS, angular js. Php, mysql database, mongodb.
+Working on Machine Learning, Image Processing for Digital Imaging and Communication for medicine. Experience on UI using angular, javascript, jquery, HTML5, CSS3, Bootstrap etc.
